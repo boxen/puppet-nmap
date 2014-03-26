@@ -12,6 +12,6 @@ class nmap {
   }
 
   package{'boxen/brews/nmap':
-    ensure => 6.25
+    ensure => latest
   }
 }
