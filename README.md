@@ -1,5 +1,7 @@
 # NMap module for boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-nmap.svg?branch=master)](https://travis-ci.org/boxen/puppet-nmap)
+
 super basic module for installing nmap
 
 ## Usage
